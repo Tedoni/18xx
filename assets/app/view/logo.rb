@@ -39,7 +39,7 @@ module View
 
       h('h1#logo', h1_props, [
         h(:a, a_props, [
-          h(:span, logo_props, '18xx'),
+          h(:span, logo_props, 'AoS'),
           h(:span, ' . Games'),
         ]),
       ])
